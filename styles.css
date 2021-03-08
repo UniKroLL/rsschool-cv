@@ -1,1 +1,26 @@
+@import url("https://use.fontawesome.com/releases/v5.1.0/css/all.css");
 
+*{
+  list-style: none;
+}
+
+.cv {
+  width: 840px;
+  height: auto;
+  display: flex;
+  margin: 50px auto;
+}
+
+.cv .left{
+  width: 280px;
+
+}
+
+.cv .left .profile {
+  width: 70%;
+}
+
+.cv .left .profile img {
+  width: 100%;
+  height: 100%;
+}
